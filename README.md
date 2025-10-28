@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jadedjered
-- 👀 I’m interested in writing code that makes money.
-- 🌱 I’m currently learning algorithmic trading.
-- 💞️ I’m looking to collaborate on trading strategies.
+- 👋 Hi, I’m Jered.
+- 👀 I’m interested in building software, web applications, and mobile apps that leverage generative AI.
+- 🌱 I’m currently learning agentic AI programming.
+- 💞️ I’m looking to collaborate on new AI SaaS projects.
 - 📫 How to reach me: jadedjered@yahoo.com
 
 <!---
